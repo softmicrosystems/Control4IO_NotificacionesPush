@@ -1,10 +1,7 @@
 
-//version modulos mios!!
-
+//version probada el 220920
 
 //https://www.luisllamas.es/4-consejos-para-programar-codigo-mas-limpio-en-arduino/
-
-
 //https://pubsubclient.knolleary.net/api
 //https://github.com/knolleary/pubsubclient/issues/86
 
