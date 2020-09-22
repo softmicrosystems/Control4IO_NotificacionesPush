@@ -1,7 +1,7 @@
 //  VERSION CON NOTIFICACIONES FUNCIONANDO
 
 //version probada el 220920
-
+//probando cambios
 //https://www.luisllamas.es/4-consejos-para-programar-codigo-mas-limpio-en-arduino/
 //https://pubsubclient.knolleary.net/api
 //https://github.com/knolleary/pubsubclient/issues/86
